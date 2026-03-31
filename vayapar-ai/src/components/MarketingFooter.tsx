@@ -64,7 +64,7 @@ const MarketingFooter: React.FC = () => {
       </div>
 
       <div className="relative mx-auto mt-8 flex max-w-7xl flex-col gap-3 border-t border-white/70 pt-6 text-sm text-slate-500 sm:flex-row sm:items-center sm:justify-between">
-        <p>{"\u00A9"} 2024 VayaparAI. All rights reserved.</p>
+        <p>{"\u00A9"} 2026 VayaparAI. All rights reserved.</p>
         <p className="text-sm font-medium text-slate-500">Built for local business growth.</p>
       </div>
     </footer>
